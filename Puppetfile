@@ -6,6 +6,7 @@ mod 'puppetlabs/inifile', '3.0.0'
 mod 'puppetlabs/stdlib',  '6.0.0'
 mod 'puppetlabs/concat',  '6.0.0'
 mod 'puppetlabs/motd', '4.1.0'
+mod 'puppetlabs/postgresql', '6.5.0'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
