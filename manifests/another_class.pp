@@ -1,0 +1,1 @@
+notify { "Another class stub": }
