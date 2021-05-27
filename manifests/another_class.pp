@@ -1,1 +1,1 @@
-notify { "Another class stub": }
+notify { "Another class stub, updated": }
