@@ -26,7 +26,6 @@ File { backup => false }
 # For more on node definitions, see: https://puppet.com/docs/puppet/latest/lang_node_definitions.html
 node default {
   notify { "Hello from production!": }
-  # This is where you can declare classes for all nodes.
-  # Example:
-  #   class { 'my_class': }
+
+  include file_serving_test::file_serving_test
 }
