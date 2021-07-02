@@ -145,7 +145,7 @@ mod 'watcher', :git => 'https://opendev.org/openstack/puppet-watcher', :ref => '
 mod 'zaqar', :git => 'https://opendev.org/openstack/puppet-zaqar', :ref => 'master'
 
 ## External OpenStack modules
-mod 'powerdns', :git => 'https://github.com/antonlindstrom/puppet-powerdns', :ref => '0.0.5'
+#mod 'powerdns', :git => 'https://github.com/antonlindstrom/puppet-powerdns', :ref => '0.0.5'
 mod 'ipaclient', :git => 'https://github.com/joshuabaird/puppet-ipaclient', :ref => '2.5.2'
 mod 'git_resource', :git => 'https://github.com/voxpupuli/puppet-git_resource', :ref => 'v1.0.2'
 mod 'xinetd', :git => 'https://github.com/puppetlabs/puppetlabs-xinetd', :ref => 'v3.3.0'
