@@ -10,5 +10,4 @@ mod 'puppetlabs/apache', '5.3.0'
 mod 'puppetlabs/support_tasks', '1.1.0'
 
 mod 'test_mod',
-  :git    => 'https://github.com/Magisus/test_module',
-  :branch => 'feature'
+  :git    => 'https://github.com/Magisus/test_module'
