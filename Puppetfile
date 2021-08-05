@@ -7,8 +7,4 @@ mod 'puppetlabs/stdlib',  '6.0.0'
 mod 'puppetlabs/concat',  '6.0.0'
 mod 'puppetlabs/motd', '4.1.0'
 mod 'puppetlabs/apache', '5.3.0'
-mod 'puppetlabs/support_tasks', '1.1.0'
-
-mod 'test_mod',
-  :git    => 'https://github.com/Magisus/test_module',
-  :ref    => 'HEAD'
+mod 'deric/zookeeper', '1.2.0'
