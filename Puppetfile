@@ -8,3 +8,7 @@ mod 'puppetlabs/concat',  '6.0.0'
 mod 'puppetlabs/motd', '4.1.0'
 mod 'puppetlabs/apache', '5.3.0'
 mod 'puppetlabs/support_tasks', '1.1.0'
+
+mod 'test_module',
+  :git => 'http://github.com/Magisus/test_module.git',
+  :branch => 'main'
