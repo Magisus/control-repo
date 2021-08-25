@@ -11,7 +11,7 @@ mod 'puppetlabs/motd', '4.1.0'
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
 mod 'magisus/test_module',
   git:    'https://github.com/magisus/test_module',
-  branch: 'main'
+  ref: 'c9555970a23629a0ce58f7c5fa48e0dabca08398'
 
 #mod 'apache',
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
