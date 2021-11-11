@@ -7,3 +7,7 @@ mod 'puppetlabs/stdlib',  '6.0.0'
 mod 'puppetlabs/concat',  '6.0.0'
 mod 'puppetlabs/apache', '5.4.0'
 mod 'puppetlabs/support_tasks', '1.1.0'
+
+mod 'motd',
+  :git    => 'git@github.com/puppetlabs/puppetlabs-motd.git',
+  :branch => 'main'
