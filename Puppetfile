@@ -14,3 +14,7 @@ mod 'motd',
 mod 'puppetlabs/stdlib',
   :git => 'https://github.com/puppetlabs/puppetlabs-stdlib.git',
   :branch => 'main'
+
+mod 'fakemod',
+  :git => 'https://github.com/puppetlabs/fake-mod.git',
+  :branch => 'main'
