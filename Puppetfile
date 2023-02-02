@@ -15,7 +15,3 @@ mod 'puppetlabs/support_tasks', '1.1.0'
 #mod 'puppetlabs-docker', '3.14.0'
 #mod 'puppetlabs-hocon', '1.1.0'
 mod 'puppetlabs-cd4pe_jobs', '1.6.0'
-
-mod 'hiera_module',
-  :git          => 'https://github.com/Magisus/hiera_module.git',
-  :branch       => :control_branch
