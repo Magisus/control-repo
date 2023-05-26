@@ -2,5 +2,5 @@ File { backup => false }
 
 node default {
   #  notify { lookup('message'): }
-  notify { 'Newest notify': }
+  notify { 'Newerest notify': }
 }
