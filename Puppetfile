@@ -13,5 +13,5 @@ mod 'puppetlabs/support_tasks', '1.1.0'
 mod 'puppetlabs-cd4pe_jobs', '1.6.0'
 
 mod 'puppetlabs-edgeops',
-  :git => 'https://github.com/puppetlabs/puppetlabs-edgeops',
+  :git => 'git@github.com/puppetlabs/puppetlabs-edgeops',
   :branch => 'main'
